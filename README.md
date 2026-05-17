@@ -19,7 +19,7 @@ I work across:
 
 ## 🤖 AI and ML Work
 
-### 📄 DocuMind — Document Intelligence System  
+### 📄 DocuMind :- Document Intelligence System  
 A system for asking questions over your documents.
 
 Built using:
@@ -36,7 +36,7 @@ It turns static documents into interactive knowledge sources.
 
 ---
 
-### 📈 Stockify — Stock Prediction System  
+### 📈 Stockify :- Stock Prediction System  
 A stock analysis system with prediction and search capabilities.
 
 Built using:
@@ -52,7 +52,7 @@ An experiment in applying ML models inside real systems.
 
 ---
 
-### 🤖 Slave — Local AI Code Generator CLI  
+### 🤖 Slave :- Local AI Code Generator CLI  
 A CLI tool that generates complete projects from natural language.
 
 Built using:
@@ -68,7 +68,7 @@ It generates full project structures, not just snippets.
 
 ---
 
-## 🏢 Fusion (Institute Works v2) — ERP System  
+## 🏢 Fusion (Institute Works v2) :- ERP System  
 A full-stack ERP system used for institutional workflows.
 
 Built using:
