@@ -68,7 +68,7 @@ It generates full project structures, not just snippets.
 
 ---
 
-## 🏢 Fusion (Institute Works v2) :- ERP System  
+### 🏢 Fusion (Institute Works v2) :- ERP System  
 A full-stack ERP system used for institutional workflows.
 
 Built using:
